@@ -9,7 +9,7 @@ Implement the functions
 
 long Factorial(int no);
 long nCr(int n, int r);
-Do not modify the main function.*/
+Do not modify the main function*/
 
 #include <iostream>
 
